@@ -1,7 +1,3 @@
-# name: hironaka hayate
-# id: 1810157
-# acknowledgements: 
-
 import sys
 # import tkinter as tk
 import copy
